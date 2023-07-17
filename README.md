@@ -1,1 +1,3 @@
-# mpesa_analysis
+![Alt Text](image\Mpesa-logo.jpg) 
+
+# Mpesa analysis
